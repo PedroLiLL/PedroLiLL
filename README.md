@@ -60,10 +60,10 @@ I am excited to face new challenges and collaborate with other professionals to 
 
 ### 🌟 Complements  
 <div align="center">  
-    <a href="https://www.latex-project.org/" target="_blank"><img style="margin: 10px" src="https://upload.wikimedia.org/wikipedia/commons/2/25/LaTeX_logo.png" alt="LaTeX" height="30" /></a>  
-    <a href="#" target="_blank"><img style="margin: 10px" src="https://upload.wikimedia.org/wikipedia/commons/4/48/Markdown-mark.svg" alt="Markdown" height="30" /></a>  
-    <a href="https://www.figma.com" target="_blank"><img style="margin: 10px" src="https://upload.wikimedia.org/wikipedia/commons/3/33/Figma-logo.svg" alt="Figma" height="30" /></a>  
-    <a href="#" target="_blank"><img style="margin: 10px" src="https://upload.wikimedia.org/wikipedia/commons/3/34/Microsoft_Office_Excel_%282019%E2%80%93present%29.svg" alt="Excel" height="30" /></a>
+    <a href="https://www.latex-project.org/" target="_blank"><img style="margin: 30px" src="https://upload.wikimedia.org/wikipedia/commons/2/25/LaTeX_logo.png" alt="LaTeX" height="30" /></a>  
+    <a href="#" target="_blank"><img style="margin: 30px" src="https://upload.wikimedia.org/wikipedia/commons/4/48/Markdown-mark.svg" alt="Markdown" height="30" /></a>  
+    <a href="https://www.figma.com" target="_blank"><img style="margin: 30px" src="https://upload.wikimedia.org/wikipedia/commons/3/33/Figma-logo.svg" alt="Figma" height="30" /></a>  
+    <a href="#" target="_blank"><img style="margin: 30px" src="https://upload.wikimedia.org/wikipedia/commons/3/34/Microsoft_Office_Excel_%282019%E2%80%93present%29.svg" alt="Excel" height="30" /></a>
 </div>  
 <br/>
 
