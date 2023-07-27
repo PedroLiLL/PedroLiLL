@@ -30,9 +30,6 @@ Hi, I am a passionate data scientist and mathematician from Peru. My love for nu
 I am excited to face new challenges and collaborate with other professionals to create innovative solutions. I am always open to new learning opportunities and exciting projects where I can apply my skills as a mathematician and data scientist. Let's connect and explore many ways to grow through data!  
 <br/>
 
----
-<br/>
-<td valign="top" width="50%">
 
 - 👯 I’m looking to collaborate on 👨‍💻 Data: AI, ML, Analysis  
 
