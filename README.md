@@ -44,7 +44,7 @@ I am excited to face new challenges and collaborate with other professionals to 
 <div align="center">  
     <a href="https://www.python.org/" target="_blank"><img style="margin: 20px" src="https://profilinator.rishav.dev/skills-assets/python-original.svg" alt="Python" height="80" /></a>  
     <a href="https://www.mysql.com/" target="_blank"><img style="margin: 20px" src="https://profilinator.rishav.dev/skills-assets/mysql-original-wordmark.svg" alt="MySQL" height="80" /></a>  
-    <a href="https://github.com/" target="_blank"><img style="margin: 20px" src="https://profilinator.rishav.dev/skills-assets/git-scm-icon.svg" alt="Git" height="80" /></a>  
+    <a href="[https://github.com/](https://git-scm.com/)" target="_blank"><img style="margin: 20px" src="https://profilinator.rishav.dev/skills-assets/git-scm-icon.svg" alt="Git" height="80" /></a>  
     <a href="https://pandas.pydata.org/" target="_blank"><img style="margin: 20px" src="https://raw.githubusercontent.com/devicons/devicon/2ae2a900d2f041da66e950e4d48052658d850630/icons/pandas/pandas-original.svg" alt="pandas" height="80"/> </a>
     <a href="https://www.pola.rs/" target="_blank"><img style="margin: 20px" src="https://raw.githubusercontent.com/pola-rs/polars-static/master/web/polars-logo-python.svg" alt="polars" height="70"/> </a>
 </div>  
