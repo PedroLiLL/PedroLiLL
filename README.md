@@ -10,12 +10,6 @@
 <a href="mailto:pfernando99@hotmail.com" target="_blank">
 <img src=https://img.shields.io/badge/Microsoft_Outlook-0078D4?style=for-the-badge&logo=microsoft-outlook&logoColor=white alt=gmail style="margin-bottom: 5px;" />
 </a>  
-<a href="https://instagram.com/pierol.ll" target="_blank">
-<img src=https://img.shields.io/badge/instagram-%23000000.svg?&style=for-the-badge&logo=instagram&logoColor=white alt=instagram style="margin-bottom: 5px;" />
-</a>
-<a href="https://www.facebook.com/piero.l.ll" target="_blank">
-<img src=https://img.shields.io/badge/facebook-%232E87FB.svg?&style=for-the-badge&logo=facebook&logoColor=white alt=facebook style="margin-bottom: 5px;" />
-</a>  
 </div>  
 <br/>
 
