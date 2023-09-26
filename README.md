@@ -26,7 +26,7 @@ I am excited to face new challenges and collaborate with other professionals to 
 
 - 🤝 I’m looking for help with to find my first job 💼  
 
-- 🌱 I’m currently learning BI Analysis with Power BI and Tableau 📊📈  
+- 🌱 I’m currently learning ML/AI with Python 👾🤖
 
 
 </td>
