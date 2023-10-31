@@ -21,7 +21,7 @@
 <img src=https://img.shields.io/badge/github-%2324292e.svg?&style=for-the-badge&logo=github&logoColor=white alt=github style="margin-bottom: 5px;" />
 </a> 
 </div>  
-  
+
 <br>
 
 <?xml version="1.0" encoding="utf-8"?>
@@ -112,6 +112,7 @@
     <animateTransform attributeName="transform" attributeType="XML" dur="35s" from="-3280" repeatCount="indefinite" to="0" type="translate"/>
   </g>
 </svg>
+  
 
 
 ## About me   
