@@ -142,9 +142,9 @@ I am excited to face new challenges and collaborate with other professionals to 
 <a href="https://github.com/" target="_blank"><img style="margin: 30px" src="https://profilinator.rishav.dev/skills-assets/git-scm-icon.svg" alt="Git" height="50" /></a>  
 <a href="https://powerbi.microsoft.com/en-us/" target="_blank"><img style="margin: 30px" src="https://profilinator.rishav.dev/skills-assets/powerbi.png" alt="Power Bi" height="50" /></a>  
 <a href="https://cassandra.apache.org/_/index.html" target="_blank"><img style="margin: 30px" src="https://profilinator.rishav.dev/skills-assets/apache_cassandra-icon.svg" alt="Cassandra" height="50" /></a>  
-<a href="https://hadoop.apache.org/" target="_blank"><img style="margin: 30px" src="https://profilinator.rishav.dev/skills-assets/apache_hadoop-icon.svg" alt="Hadoop" height="50" /></a>  
+<a href="https://pola.rs/" target="_blank"><img style="margin: 30px" src="https://api.iconify.design/simple-icons:polars.svg" alt="Polars" height="50" /></a>  
 <a href="https://www.postgresql.org/" target="_blank"><img style="margin: 30px" src="https://profilinator.rishav.dev/skills-assets/postgresql-original-wordmark.svg" alt="PostgreSQL" height="50" /></a>  
-<a href="https://www.tableau.com/" target="_blank"><img style="margin: 30px" src="https://profilinator.rishav.dev/skills-assets/tableau.svg" alt="Tableau" height="50" /></a>  
+<a href="https://spark.apache.org/docs/latest/api/python/index.html" target="_blank"><img style="margin: 30px" src="https://api.iconify.design/logos:apache-spark.svg" alt="Spark" height="50" /></a>  
 </div>  
 
 <br/>  
