@@ -19,98 +19,6 @@
 </a>
 </div>  
 
-<br>
-
-<?xml version="1.0" encoding="utf-8"?>
-<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1240 220">
-  <g>
-    <rect fill="#69C0FF" height="20" width="360" x="0" y="0"/>
-    <rect fill="#9d98f6" height="20" width="540" x="410" y="0"/>
-    <rect fill="#9d98f6" height="20" width="180" x="1000" y="0"/>
-    <rect fill="#9d98f6" height="20" width="180" x="2000" y="0"/>
-    <rect fill="#9d98f6" height="20" width="360" x="2640" y="0"/>
-    <rect fill="#69C0FF" height="20" width="360" x="2230" y="0"/>
-    <rect fill="#69C0FF" height="20" width="720" x="1230" y="0"/>
-    <rect fill="#69C0FF" height="20" width="360" x="3050" y="0"/>
-    <rect fill="#9d98f6" height="20" width="540" x="3460" y="0"/>
-    <rect fill="#9d98f6" height="20" width="180" x="4050" y="0"/>
-    <rect fill="#9d98f6" height="20" width="180" x="5050" y="0"/>
-    <rect fill="#9d98f6" height="20" width="360" x="5690" y="0"/>
-    <rect fill="#69C0FF" height="20" width="360" x="5280" y="0"/>
-    <rect fill="#69C0FF" height="20" width="720" x="4280" y="0"/>
-    <animateTransform attributeName="transform" attributeType="XML" dur="15s" from="-3050" repeatCount="indefinite" to="0" type="translate"/>
-  </g>
-  <g>
-    <rect fill="#69C0FF" height="20" width="180" x="1770" y="50"/>
-    <rect fill="#9d98f6" height="20" width="360" x="590" y="50"/>
-    <rect fill="#9d98f6" height="20" width="540" x="2590" y="50"/>
-    <rect fill="#69C0FF" height="20" width="540" x="2000" y="50"/>
-    <rect fill="#69C0FF" height="20" width="540" x="0" y="50"/>
-    <rect fill="#9d98f6" height="20" width="720" x="1000" y="50"/>
-    <rect fill="#69C0FF" height="20" width="180" x="4950" y="50"/>
-    <rect fill="#9d98f6" height="20" width="360" x="3770" y="50"/>
-    <rect fill="#9d98f6" height="20" width="540" x="5770" y="50"/>
-    <rect fill="#69C0FF" height="20" width="540" x="5180" y="50"/>
-    <rect fill="#69C0FF" height="20" width="540" x="3180" y="50"/>
-    <rect fill="#9d98f6" height="20" width="720" x="4180" y="50"/>
-    <animateTransform attributeName="transform" attributeType="XML" dur="20s" from="0" repeatCount="indefinite" to="-3180" type="translate"/>
-  </g>
-  <g>
-    <rect fill="#9d98f6" height="20" width="180" x="230" y="100"/>
-    <rect fill="#69C0FF" height="20" width="180" x="0" y="100"/>
-    <rect fill="#9d98f6" height="20" width="360" x="2640" y="100"/>
-    <rect fill="#9d98f6" height="20" width="360" x="1640" y="100"/>
-    <rect fill="#69C0FF" height="20" width="360" x="1230" y="100"/>
-    <rect fill="#69C0FF" height="20" width="540" x="2050" y="100"/>
-    <rect fill="#69C0FF" height="20" width="720" x="460" y="100"/>
-    <rect fill="#9d98f6" height="20" width="180" x="3280" y="100"/>
-    <rect fill="#69C0FF" height="20" width="180" x="3050" y="100"/>
-    <rect fill="#9d98f6" height="20" width="360" x="5690" y="100"/>
-    <rect fill="#9d98f6" height="20" width="360" x="4690" y="100"/>
-    <rect fill="#69C0FF" height="20" width="360" x="4280" y="100"/>
-    <rect fill="#69C0FF" height="20" width="540" x="5100" y="100"/>
-    <rect fill="#69C0FF" height="20" width="720" x="3510" y="100"/>
-    <animateTransform attributeName="transform" attributeType="XML" dur="25s" from="-3050" repeatCount="indefinite" to="0" type="translate"/>
-  </g>
-  <g>
-    <rect fill="#69C0FF" height="20" width="180" x="1820" y="150"/>
-    <rect fill="#9d98f6" height="20" width="180" x="1180" y="150"/>
-    <rect fill="#69C0FF" height="20" width="360" x="2820" y="150"/>
-    <rect fill="#9d98f6" height="20" width="360" x="1410" y="150"/>
-    <rect fill="#69C0FF" height="20" width="540" x="590" y="150"/>
-    <rect fill="#9d98f6" height="20" width="540" x="0" y="150"/>
-    <rect fill="#9d98f6" height="20" width="720" x="2050" y="150"/>
-    <rect fill="#69C0FF" height="20" width="180" x="5050" y="150"/>
-    <rect fill="#9d98f6" height="20" width="180" x="4410" y="150"/>
-    <rect fill="#69C0FF" height="20" width="360" x="6050" y="150"/>
-    <rect fill="#9d98f6" height="20" width="360" x="4640" y="150"/>
-    <rect fill="#69C0FF" height="20" width="540" x="3820" y="150"/>
-    <rect fill="#9d98f6" height="20" width="540" x="3230" y="150"/>
-    <rect fill="#9d98f6" height="20" width="720" x="5280" y="150"/>
-    <animateTransform attributeName="transform" attributeType="XML" dur="30s" from="0" repeatCount="indefinite" to="-3230" type="translate"/>
-  </g>
-  <g>
-    <rect fill="#9d98f6" height="20" width="180" x="3050" y="200"/>
-    <rect fill="#9d98f6" height="20" width="180" x="2230" y="200"/>
-    <rect fill="#69C0FF" height="20" width="180" x="410" y="200"/>
-    <rect fill="#9d98f6" height="20" width="360" x="1820" y="200"/>
-    <rect fill="#69C0FF" height="20" width="360" x="0" y="200"/>
-    <rect fill="#69C0FF" height="20" width="540" x="2460" y="200"/>
-    <rect fill="#69C0FF" height="20" width="540" x="1230" y="200"/>
-    <rect fill="#9d98f6" height="20" width="540" x="640" y="200"/>
-    <rect fill="#9d98f6" height="20" width="180" x="6330" y="200"/>
-    <rect fill="#9d98f6" height="20" width="180" x="5510" y="200"/>
-    <rect fill="#69C0FF" height="20" width="180" x="3690" y="200"/>
-    <rect fill="#9d98f6" height="20" width="360" x="5100" y="200"/>
-    <rect fill="#69C0FF" height="20" width="360" x="3280" y="200"/>
-    <rect fill="#69C0FF" height="20" width="540" x="5740" y="200"/>
-    <rect fill="#69C0FF" height="20" width="540" x="4510" y="200"/>
-    <rect fill="#9d98f6" height="20" width="540" x="3920" y="200"/>
-    <animateTransform attributeName="transform" attributeType="XML" dur="35s" from="-3280" repeatCount="indefinite" to="0" type="translate"/>
-  </g>
-</svg>
-  
-
 
 ## About me   
 Hi, I am a passionate data scientist and mathematician from Peru. My love for numbers led me to study data science and to be able to solve problems in today's world.
@@ -121,7 +29,7 @@ I am excited to face new challenges and collaborate with other professionals to 
 <br/>  
 
 
-- 🔭 I’m currently working on [MLOps project](https://github.com/PedroLiLL/STEAM-MLOps)  
+- 🔭 I’m currently working on [InnovaAI project](https://github.com/mreliflores/PF-Henry)  
   
 
 - 🌱 I’m currently learning Deployment of Python Applications  
