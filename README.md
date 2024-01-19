@@ -17,7 +17,12 @@
 <a href="https://twitter.com/SteveLi35209051" target="_blank">
 <img src=https://img.shields.io/badge/twitter-%2300acee.svg?&style=for-the-badge&logo=twitter&logoColor=white alt=twitter style="margin-bottom: 5px;" />
 </a>
+<a href="https://github.com/PedroLiLL" target="_blank">
+<img src=https://img.shields.io/badge/github-%2324292e.svg?&style=for-the-badge&logo=github&logoColor=white alt=github style="margin-bottom: 5px;" />
+</a> 
 </div>  
+
+<br>
 
 
 ## About me   
@@ -32,7 +37,7 @@ I am excited to face new challenges and collaborate with other professionals to 
 - 🔭 I’m currently working on [InnovaAI project](https://github.com/mreliflores/PF-Henry)  
   
 
-- 🌱 I’m currently learning Deployment of Python Applications  
+- 🌱 I’m currently learning AWS Certified Data Engineer Associate 2024  
   
 
 - ❓ Ask me about anything related to mathematics in data science  
@@ -46,13 +51,13 @@ I am excited to face new challenges and collaborate with other professionals to 
 ## Languages and Tools  
 <div align="center">  
 <a href="https://www.python.org/" target="_blank"><img style="margin: 30px" src="https://profilinator.rishav.dev/skills-assets/python-original.svg" alt="Python" height="50" /></a>  
-<a href="https://www.mysql.com/" target="_blank"><img style="margin: 30px" src="https://profilinator.rishav.dev/skills-assets/mysql-original-wordmark.svg" alt="MySQL" height="50" /></a>  
+<a href="https://www.mysql.com/" target="_blank"><img style="margin: 30px" src="https://ojt.com/wp-content/uploads/2021/08/sql.png" alt="MySQL" height="50" /></a>  
 <a href="https://github.com/" target="_blank"><img style="margin: 30px" src="https://profilinator.rishav.dev/skills-assets/git-scm-icon.svg" alt="Git" height="50" /></a>  
 <a href="https://powerbi.microsoft.com/en-us/" target="_blank"><img style="margin: 30px" src="https://profilinator.rishav.dev/skills-assets/powerbi.png" alt="Power Bi" height="50" /></a>  
-<a href="https://cassandra.apache.org/_/index.html" target="_blank"><img style="margin: 30px" src="https://profilinator.rishav.dev/skills-assets/apache_cassandra-icon.svg" alt="Cassandra" height="50" /></a>  
-<a href="https://pola.rs/" target="_blank"><img style="margin: 30px" src="https://api.iconify.design/simple-icons:polars.svg" alt="Polars" height="50" /></a>  
+<a href="https://spark.apache.org/" target="_blank"><img style="margin: 30px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/f/f3/Apache_Spark_logo.svg/1280px-Apache_Spark_logo.svg.png" alt="Spark" height="50" /></a>  
+<a href="https://hadoop.apache.org/" target="_blank"><img style="margin: 30px" src="https://profilinator.rishav.dev/skills-assets/apache_hadoop-icon.svg" alt="Hadoop" height="50" /></a>  
 <a href="https://www.postgresql.org/" target="_blank"><img style="margin: 30px" src="https://profilinator.rishav.dev/skills-assets/postgresql-original-wordmark.svg" alt="PostgreSQL" height="50" /></a>  
-<a href="https://spark.apache.org/docs/latest/api/python/index.html" target="_blank"><img style="margin: 30px" src="https://api.iconify.design/logos:apache-spark.svg" alt="Spark" height="50" /></a>  
+<a href="https://cloud.google.com/?hl=es" target="_blank"><img style="margin: 30px" src="https://tecbrix.com/wp-content/uploads/2022/08/Google-Cloud-Emblem.png" alt="gcp" height="50" /></a>  
 </div>  
 
 <br/>  
