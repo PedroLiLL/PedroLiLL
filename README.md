@@ -55,7 +55,7 @@ I am excited to face new challenges and collaborate with other professionals to 
 <a href="https://github.com/" target="_blank"><img style="margin: 30px" src="https://profilinator.rishav.dev/skills-assets/git-scm-icon.svg" alt="Git" height="50" /></a>  
 <a href="https://powerbi.microsoft.com/en-us/" target="_blank"><img style="margin: 30px" src="https://1000marcas.net/wp-content/uploads/2022/08/Microsoft-Power-BI-Logo-2013.png" alt="Power Bi" height="50" /></a>  
 <a href="https://spark.apache.org/" target="_blank"><img style="margin: 30px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/f/f3/Apache_Spark_logo.svg/1280px-Apache_Spark_logo.svg.png" alt="Spark" height="50" /></a>  
-<a href="https://hadoop.apache.org/" target="_blank"><img style="margin: 30px" src="https://profilinator.rishav.dev/skills-assets/apache_hadoop-icon.svg" alt="Hadoop" height="50" /></a>  
+<a href="https://hadoop.apache.org/" target="_blank"><img style="margin: 30px" src="https://varunblogsite.files.wordpress.com/2017/07/hadoop.png" alt="Hadoop" height="50" /></a>  
 <a href="https://www.postgresql.org/" target="_blank"><img style="margin: 30px" src="https://profilinator.rishav.dev/skills-assets/postgresql-original-wordmark.svg" alt="PostgreSQL" height="50" /></a>  
 <a href="https://cloud.google.com/?hl=es" target="_blank"><img style="margin: 30px" src="https://tecbrix.com/wp-content/uploads/2022/08/Google-Cloud-Emblem.png" alt="gcp" height="50" /></a>  
 </div>  
